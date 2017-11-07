@@ -6,3 +6,4 @@ $ git status
 /SQL Queries/end_uses/Comparison/baseline.sql
 /SQL Queries/end_uses/Comparison/proposed.sql
 /SQL Queries/space_type_breakdown/in.sql
+SQL Queries/end_uses/Comparison/eplusout.sql
